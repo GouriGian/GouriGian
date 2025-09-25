@@ -1,4 +1,4 @@
-<img width="2242" height="840" alt="Image" src="https://github.com/user-attachments/assets/d34cfe1d-5747-49d4-bc03-2f0e105c156f" />
+<img width="2000" height="540" alt="Image" src="https://github.com/user-attachments/assets/d34cfe1d-5747-49d4-bc03-2f0e105c156f" />
 
 # 💫 About Me:
 I am a senior technical writer and content strategist with over 10 years of experience transforming complex technologies into clear, practical content. My background includes:
